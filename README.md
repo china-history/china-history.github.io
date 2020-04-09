@@ -1,4 +1,4 @@
-## 欢迎来到中国历史
+## 欢迎来到中国古代历史
 
 You can use the [editor on GitHub](https://github.com/china-history/china-history/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
