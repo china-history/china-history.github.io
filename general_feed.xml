@@ -4,7 +4,7 @@
   <title>China History</title>
   <link href="https://china-history.github.io//general_feed.xml" rel="self"/>
   <link href="https://china-history.github.io/"/>
-  <updated>2020-04-26T10:52:28+08:00</updated>
+  <updated>2020-04-26T11:05:48+08:00</updated>
   <id>https://china-history.github.io//</id>
   <author>
     <name>熠熠声慧</name>
@@ -23,7 +23,7 @@ It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;http://your.fancy.hosting/episodes/name.m4a&quot;,&quot;mp3&quot;:&quot;http://your.fancy.hosting/episodes/name.mp3&quot;,&quot;ogg&quot;:&quot;http://your.fancy.hosting/episodes/name.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot; this is a test&quot;,&quot;subtitle&quot;:&quot;A Subtle Subtitle&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/04/24/this-is-a-test.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:20:49.16 T&quot;,&quot;title&quot;:&quot;his is a test.&quot;},{&quot;start&quot;:&quot;00:20:49.16 O&quot;,&quot;title&quot;:&quot;utro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/name.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/name.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/name.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot; this is a test&quot;,&quot;subtitle&quot;:&quot;A Subtle Subtitle&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/04/24/this-is-a-test.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:20:49.16 T&quot;,&quot;title&quot;:&quot;his is a test.&quot;},{&quot;start&quot;:&quot;00:20:49.16 O&quot;,&quot;title&quot;:&quot;utro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;

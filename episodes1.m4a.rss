@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Sun, 26 Apr 2020 10:52:28 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 11:05:48 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -78,7 +78,7 @@ It is only necessary for hosting remotely.
   <li>Note</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://your.fancy.hosting/episodes/name.m4a" 
+            <enclosure url="https://china-history.github.io/episodes/name.m4a" 
                          length="11287966" 
                          type="audio/mp4a-latm" />
             <itunes:keywords></itunes:keywords>

@@ -9,17 +9,17 @@
  "expired": false,
  "author": {
    "name": "熠熠声慧",
-   "url": "http://your.fancy.hosting/"
+   "url": "https://china-history.github.io"
  },
  "items": [
    {"id": "a146b344",
     "title": " this is a test",
     "summary": "",
     "content_text": "Shownotes and Links  Note",
-    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"m4a\":\"http://your.fancy.hosting/episodes/name.m4a\",\"mp3\":\"http://your.fancy.hosting/episodes/name.mp3\",\"ogg\":\"http://your.fancy.hosting/episodes/name.ogg\"},\"coverUrl\":\"https://china-history.github.io//img/logo-360x360.png\",\"title\":\" this is a test\",\"subtitle\":\"A Subtle Subtitle\",\"url\":\"https://china-history.github.io//2020/04/24/this-is-a-test.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:20:49.16 T\",\"title\":\"his is a test.\"},{\"start\":\"00:20:49.16 O\",\"title\":\"utro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li>Note</li></ul>",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"m4a\":\"https://china-history.github.io/episodes/name.m4a\",\"mp3\":\"https://china-history.github.io/episodes/name.mp3\",\"ogg\":\"https://china-history.github.io/episodes/name.ogg\"},\"coverUrl\":\"https://china-history.github.io//img/logo-360x360.png\",\"title\":\" this is a test\",\"subtitle\":\"A Subtle Subtitle\",\"url\":\"https://china-history.github.io//2020/04/24/this-is-a-test.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:20:49.16 T\",\"title\":\"his is a test.\"},{\"start\":\"00:20:49.16 O\",\"title\":\"utro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li>Note</li></ul>",
     "url": "https://china-history.github.io//2020/04/24/this-is-a-test.html",
     "attachments": [
-      {"url": "http://your.fancy.hosting/episodes/name.m4a",
+      {"url": "https://china-history.github.io/episodes/name.m4a",
        "mime_type": "audio/mpeg","size_in_bytes": "11287966"}
     ],
     "date_published": "2020-04-24T00:00:00+08:00",
