@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Sun, 26 Apr 2020 11:22:08 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 12:40:04 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -28,7 +28,7 @@
 </itunes:summary>
     <itunes:author>熠熠声慧</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://china-history.github.io//img/logo-itunes.jpg" />
+    <itunes:image href="https://china-history.github.io//img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>熠熠声慧</itunes:name>
       <itunes:email>sunhualing@outlook.com</itunes:email>
@@ -39,7 +39,7 @@
     <itunes:keywords>history, podcast, china</itunes:keywords>
     <image>
       <title>China History</title>
-      <url>https://china-history.github.io//img/logo-itunes.jpg</url>
+      <url>https://china-history.github.io//img/logo-itunes.png</url>
       <link>https://china-history.github.io/</link>
     </image>
     
