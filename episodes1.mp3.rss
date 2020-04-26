@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Fri, 24 Apr 2020 16:49:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 10:52:28 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -79,16 +79,16 @@ It is only necessary for hosting remotely.
 </ul>
 ]]></content:encoded>
             <enclosure url="http://your.fancy.hosting/episodes/name.mp3" 
-                         length="2345678" 
+                         length="4996656" 
                          type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>熠熠声慧</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:01:00</itunes:duration>
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro." />
-              <psc:chapter start="00:00:30.000" title="Outro." />
+            <itunes:duration>0:20:50</itunes:duration>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:20:49.16" title="This is a test." />
+              <psc:chapter start="00:20:49.16" title="Outro." />
               
             </psc:chapters></item></channel>
 </rss>
