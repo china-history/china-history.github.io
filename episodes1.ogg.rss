@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Fri, 24 Apr 2020 09:07:59 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 16:49:31 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -44,5 +44,51 @@
     </image>
     
     <itunes:category text="History" />
-    </channel>
+    <item>
+            <title> this is a test - A Subtle Subtitle</title>
+            <link>https://china-history.github.io//2020/04/24/this-is-a-test.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://china-history.github.io//players/this-is-a-test"/>
+            <comments>https://china-history.github.io//2020/04/24/this-is-a-test.html#disqus_thread</comments>
+            <pubDate>Fri, 24 Apr 2020 00:00:00 +0800</pubDate>
+            
+            <guid isPermaLink="false">https://china-history.github.io//2020/04/24/this-is-a-test.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://your.fancy.hosting/episodes/name.ogg" 
+                         length="3456789" 
+                         type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>熠熠声慧</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:01:00</itunes:duration>
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00.000" title="Intro." />
+              <psc:chapter start="00:00:30.000" title="Outro." />
+              
+            </psc:chapters></item></channel>
 </rss>
