@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Wed, 06 May 2020 13:45:42 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 14:38:11 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -90,7 +90,7 @@ It is only necessary for hosting remotely.
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:04:19.29" title="三国志开篇." />
               
             </psc:chapters></item><item>
-            <title>ancestral home - Liubei's ancestral home</title>
+            <title>祖籍 - 刘备的祖籍</title>
             <link>https://china-history.github.io//2020/05/06/ancestral-home.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://china-history.github.io//players/ancestral-home"/>
             <comments>https://china-history.github.io//2020/05/06/ancestral-home.html#disqus_thread</comments>
@@ -105,7 +105,7 @@ It is only necessary for hosting remotely.
 
 
 <h2 id="shownotes-and-links">Shownotes and Links</h2>
-<p>hang -&gt; xing</p>
+<p>行字的发音错误，hang -&gt; xing</p>
 
 <ul>
   <li>Note</li>
@@ -119,7 +119,7 @@ It is only necessary for hosting remotely.
 
 
 <h2 id="shownotes-and-links">Shownotes and Links</h2>
-<p>hang -&gt; xing</p>
+<p>行字的发音错误，hang -&gt; xing</p>
 
 <ul>
   <li>Note</li>
@@ -129,7 +129,7 @@ It is only necessary for hosting remotely.
                          length="3806610" 
                          type="audio/mp4a-latm" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Liubei's ancestral home</itunes:subtitle>
+            <itunes:subtitle>刘备的祖籍</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>熠熠声慧</itunes:author>
             <itunes:explicit>no</itunes:explicit>
