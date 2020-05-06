@@ -12,18 +12,34 @@
    "url": "https://china-history.github.io"
  },
  "items": [
-   {"id": "a146b344",
-    "title": " this is a test",
+   {"id": "fa646972",
+    "title": "三国志开篇",
     "summary": "",
     "content_text": "Shownotes and Links  Note",
-    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"m4a\":\"https://china-history.github.io/episodes/name.m4a\",\"mp3\":\"https://china-history.github.io/episodes/name.mp3\",\"ogg\":\"https://china-history.github.io/episodes/name.ogg\"},\"coverUrl\":\"https://china-history.github.io//img/logo-360x360.png\",\"title\":\" this is a test\",\"subtitle\":\"A Subtle Subtitle\",\"url\":\"https://china-history.github.io//2020/04/24/this-is-a-test.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:20:49.16 T\",\"title\":\"his is a test.\"},{\"start\":\"00:20:49.16 O\",\"title\":\"utro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li>Note</li></ul>",
-    "url": "https://china-history.github.io//2020/04/24/this-is-a-test.html",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"m4a\":\"https://china-history.github.io/episodes/SanGuo001.m4a\",\"mp3\":\"https://china-history.github.io/episodes/SanGuo001.mp3\",\"ogg\":\"https://china-history.github.io/episodes/SanGuo001.ogg\"},\"coverUrl\":\"https://china-history.github.io//img/logo-360x360.png\",\"title\":\"三国志开篇\",\"subtitle\":\"开篇以及读书方法\",\"url\":\"https://china-history.github.io//2020/05/06/this-is-start.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:04:19.29 三\",\"title\":\"国志开篇.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><ul>  <li>Note</li></ul>",
+    "url": "https://china-history.github.io//2020/05/06/this-is-start.html",
     "attachments": [
-      {"url": "https://china-history.github.io/episodes/name.m4a",
-       "mime_type": "audio/mpeg","size_in_bytes": "11287966"}
+      {"url": "https://china-history.github.io/episodes/SanGuo001.m4a",
+       "mime_type": "audio/mpeg","size_in_bytes": "2297462"}
     ],
-    "date_published": "2020-04-24T00:00:00+08:00",
-    "date_modified": "2020-04-24T00:00:00+08:00",
+    "date_published": "2020-05-06T00:00:00+08:00",
+    "date_modified": "2020-05-06T00:00:00+08:00",
+    "author": {
+      "name": "熠熠声慧"
+    }
+  },
+   {"id": "fbb2a8c7",
+    "title": "ancestral home",
+    "summary": "",
+    "content_text": "Shownotes and Linkshang -&gt; xing  Note",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"m4a\":\"https://china-history.github.io/episodes/SanGuo002.m4a\",\"mp3\":\"https://china-history.github.io/episodes/SanGuo002.mp3\",\"ogg\":\"https://china-history.github.io/episodes/SanGuo002.ogg\"},\"coverUrl\":\"https://china-history.github.io//img/logo-360x360.png\",\"title\":\"ancestral home\",\"subtitle\":\"Liubei's ancestral home\",\"url\":\"https://china-history.github.io//2020/05/06/ancestral-home.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"shownotes-and-links\">Shownotes and Links</h2><p>hang -&gt; xing</p><ul>  <li>Note</li></ul>",
+    "url": "https://china-history.github.io//2020/05/06/ancestral-home.html",
+    "attachments": [
+      {"url": "https://china-history.github.io/episodes/SanGuo002.m4a",
+       "mime_type": "audio/mpeg","size_in_bytes": "3806610"}
+    ],
+    "date_published": "2020-05-06T00:00:00+08:00",
+    "date_modified": "2020-05-06T00:00:00+08:00",
     "author": {
       "name": "熠熠声慧"
     }
