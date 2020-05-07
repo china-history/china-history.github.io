@@ -8,7 +8,7 @@
      version="2.0">
 
   <channel>
-    <title>China History</title>
+    <title>China-History</title>
     <link>https://china-history.github.io/</link>
     <atom:link href="https://china-history.github.io//episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <atom:link href="https://china-history.github.io//episodes.mp3.rss" rel="first" type="application/rss+xml" />
