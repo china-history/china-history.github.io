@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Fri, 08 May 2020 09:42:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 09:45:43 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -45,7 +45,7 @@
     
     <itunes:category text="History" />
     <item>
-            <title>刘备 - 2.少年时期</title>
+            <title>刘备传 - 2.少年时期</title>
             <link>https://china-history.github.io//2020/05/08/childhood.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://china-history.github.io//players/childhood"/>
             <comments>https://china-history.github.io//2020/05/08/childhood.html#disqus_thread</comments>
@@ -173,12 +173,19 @@ It is only necessary for hosting remotely.
 
 
 
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-<p>行字的发音错误，hang -&gt; xing</p>
+<h2 id="原文">原文</h2>
+<p>先主姓刘，讳备，字玄德，涿郡涿县人，汉景帝子中山靖王胜之后也。</p>
 
-<ul>
-  <li>Note</li>
-</ul>
+<p>胜子贞，元狩六年封涿县陆城亭侯，坐酎金失侯，因家焉。</p>
+
+<p>先主祖雄，父弘，世仕州郡。雄举孝廉，官至东郡范令。</p>
+
+<h2 id="涿郡地图">涿郡地图</h2>
+<p><img src="../../../img/mapOfZhuoState.jpg" alt="涿郡地图" /></p>
+
+<h2 id="发音错误">发音错误</h2>
+<p>千里不留行，行字的发音错误，hang -&gt; xing</p>
+
 ]]></description>
             <content:encoded><![CDATA[<!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
@@ -187,12 +194,19 @@ It is only necessary for hosting remotely.
 
 
 
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-<p>行字的发音错误，hang -&gt; xing</p>
+<h2 id="原文">原文</h2>
+<p>先主姓刘，讳备，字玄德，涿郡涿县人，汉景帝子中山靖王胜之后也。</p>
 
-<ul>
-  <li>Note</li>
-</ul>
+<p>胜子贞，元狩六年封涿县陆城亭侯，坐酎金失侯，因家焉。</p>
+
+<p>先主祖雄，父弘，世仕州郡。雄举孝廉，官至东郡范令。</p>
+
+<h2 id="涿郡地图">涿郡地图</h2>
+<p><img src="../../../img/mapOfZhuoState.jpg" alt="涿郡地图" /></p>
+
+<h2 id="发音错误">发音错误</h2>
+<p>千里不留行，行字的发音错误，hang -&gt; xing</p>
+
 ]]></content:encoded>
             <enclosure url="https://china-history.github.io/episodes/SanGuo002.mp3" 
                          length="4859087" 

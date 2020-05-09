@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://china-history.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://china-history.github.io//" rel="alternate" type="text/html" /><updated>2020-05-08T09:42:50+08:00</updated><id>https://china-history.github.io//feed.xml</id><title type="html">China History</title><subtitle>读你感兴趣的历史，探索历史事件的真相，思考人生</subtitle><author><name>熠熠声慧</name></author><entry><title type="html">刘备</title><link href="https://china-history.github.io//2020/05/08/childhood.html" rel="alternate" type="text/html" title="刘备" /><published>2020-05-08T00:00:00+08:00</published><updated>2020-05-08T00:00:00+08:00</updated><id>https://china-history.github.io//2020/05/08/childhood</id><content type="html" xml:base="https://china-history.github.io//2020/05/08/childhood.html">&lt;!---
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://china-history.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://china-history.github.io//" rel="alternate" type="text/html" /><updated>2020-05-09T09:45:43+08:00</updated><id>https://china-history.github.io//feed.xml</id><title type="html">China History</title><subtitle>读你感兴趣的历史，探索历史事件的真相，思考人生</subtitle><author><name>熠熠声慧</name></author><entry><title type="html">刘备传</title><link href="https://china-history.github.io//2020/05/08/childhood.html" rel="alternate" type="text/html" title="刘备传" /><published>2020-05-08T00:00:00+08:00</published><updated>2020-05-08T00:00:00+08:00</updated><id>https://china-history.github.io//2020/05/08/childhood</id><content type="html" xml:base="https://china-history.github.io//2020/05/08/childhood.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/SanGuo003.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/SanGuo003.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/SanGuo003.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;刘备&quot;,&quot;subtitle&quot;:&quot;2.少年时期&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/05/08/childhood.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;刘备的少年.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/SanGuo003.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/SanGuo003.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/SanGuo003.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;刘备传&quot;,&quot;subtitle&quot;:&quot;2.少年时期&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/05/08/childhood.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;刘备的少年.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -38,12 +38,18 @@ It is only necessary for hosting remotely.
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
-&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
-&lt;p&gt;行字的发音错误，hang -&amp;gt; xing&lt;/p&gt;
+&lt;h2 id=&quot;原文&quot;&gt;原文&lt;/h2&gt;
+&lt;p&gt;先主姓刘，讳备，字玄德，涿郡涿县人，汉景帝子中山靖王胜之后也。&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Note&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>熠熠声慧</name></author><summary type="html"></summary></entry><entry><title type="html">三国志开篇</title><link href="https://china-history.github.io//2020/05/06/this-is-start.html" rel="alternate" type="text/html" title="三国志开篇" /><published>2020-05-06T00:00:00+08:00</published><updated>2020-05-06T00:00:00+08:00</updated><id>https://china-history.github.io//2020/05/06/this-is-start</id><content type="html" xml:base="https://china-history.github.io//2020/05/06/this-is-start.html">&lt;!---
+&lt;p&gt;胜子贞，元狩六年封涿县陆城亭侯，坐酎金失侯，因家焉。&lt;/p&gt;
+
+&lt;p&gt;先主祖雄，父弘，世仕州郡。雄举孝廉，官至东郡范令。&lt;/p&gt;
+
+&lt;h2 id=&quot;涿郡地图&quot;&gt;涿郡地图&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;../../../img/mapOfZhuoState.jpg&quot; alt=&quot;涿郡地图&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;发音错误&quot;&gt;发音错误&lt;/h2&gt;
+&lt;p&gt;千里不留行，行字的发音错误，hang -&amp;gt; xing&lt;/p&gt;</content><author><name>熠熠声慧</name></author><summary type="html"></summary></entry><entry><title type="html">三国志开篇</title><link href="https://china-history.github.io//2020/05/06/this-is-start.html" rel="alternate" type="text/html" title="三国志开篇" /><published>2020-05-06T00:00:00+08:00</published><updated>2020-05-06T00:00:00+08:00</updated><id>https://china-history.github.io//2020/05/06/this-is-start</id><content type="html" xml:base="https://china-history.github.io//2020/05/06/this-is-start.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
