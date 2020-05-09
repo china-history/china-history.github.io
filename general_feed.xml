@@ -4,7 +4,7 @@
   <title>China History</title>
   <link href="https://china-history.github.io//general_feed.xml" rel="self"/>
   <link href="https://china-history.github.io/"/>
-  <updated>2020-05-09T10:04:43+08:00</updated>
+  <updated>2020-05-09T10:12:07+08:00</updated>
   <id>https://china-history.github.io//</id>
   <author>
     <name>熠熠声慧</name>
@@ -83,17 +83,14 @@ It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/SanGuo001.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/SanGuo001.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/SanGuo001.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;三国志开篇&quot;,&quot;subtitle&quot;:&quot;开篇以及读书方法&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/05/06/this-is-start.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:04:19.29 三&quot;,&quot;title&quot;:&quot;国志开篇.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/SanGuo001.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/SanGuo001.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/SanGuo001.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;三国志开篇&quot;,&quot;subtitle&quot;:&quot;开篇以及读书方法&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/05/06/this-is-start.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
-&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
+&lt;h2 id=&quot;the-start&quot;&gt;The start&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Note&lt;/li&gt;
-&lt;/ul&gt;
 </content>
       
         
@@ -131,7 +128,7 @@ It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/SanGuo002.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/SanGuo002.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/SanGuo002.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;刘备传&quot;,&quot;subtitle&quot;:&quot;1. 刘备的祖籍&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/05/06/ancestral-home.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://china-history.github.io/episodes/SanGuo002.m4a&quot;,&quot;mp3&quot;:&quot;https://china-history.github.io/episodes/SanGuo002.mp3&quot;,&quot;ogg&quot;:&quot;https://china-history.github.io/episodes/SanGuo002.ogg&quot;},&quot;coverUrl&quot;:&quot;https://china-history.github.io//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;刘备传&quot;,&quot;subtitle&quot;:&quot;1. 刘备的祖籍&quot;,&quot;url&quot;:&quot;https://china-history.github.io//2020/05/06/ancestral-home.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://china-history.github.io//podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
