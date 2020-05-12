@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://china-history.github.io//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>读你感兴趣的历史，探索历史事件的真相，思考人生
 </description>
-    <lastBuildDate>Sat, 09 May 2020 10:20:36 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 13:02:53 +0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.19</generator>
 
@@ -110,7 +110,7 @@ It is only necessary for hosting remotely.
             <itunes:summary></itunes:summary>
             <itunes:author>熠熠声慧</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:01:00</itunes:duration>
+            <itunes:duration>17:59.59</itunes:duration>
             </item><item>
             <title>三国志开篇 - 开篇以及读书方法</title>
             <link>https://china-history.github.io//2020/05/06/this-is-start.html</link>
